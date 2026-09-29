@@ -1,0 +1,14 @@
+../Core/Src/main.c:20:6:Clock_Init	4	static
+../Core/Src/main.c:55:6:TIM2_Init	4	static
+../Core/Src/main.c:89:6:delay_ms	24	static
+../Core/Src/main.c:114:6:USART1_Init	4	static
+../Core/Src/main.c:184:6:USART1_SendChar	16	static
+../Core/Src/main.c:195:6:USART1_SendString	16	static
+../Core/Src/main.c:207:6:USART1_SendNumber	32	static
+../Core/Src/main.c:234:6:USART1_SendFloat	24	static
+../Core/Src/main.c:264:6:ADC1_Init	8	static
+../Core/Src/main.c:394:6:ADC1_ReadSensors	16	static
+../Core/Src/main.c:451:7:LM35_GetTemperature	16	static
+../Core/Src/main.c:464:7:MQ2_GetVoltage	16	static
+../Core/Src/main.c:488:7:MQ2_GetPPM	24	static
+../Core/Src/main.c:501:5:main	24	static
